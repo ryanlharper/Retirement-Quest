@@ -20,6 +20,3 @@ Retirement Quest is a command-line application written in Python that calculates
 2. Navigate to the project directory and run the `retirement_quest.py` file: `python retirement_quest.py`
 3. Follow the prompts to enter the necessary information for the retirement calculation and simulation.
 
-## Acknowledgments
-- This project was completed as part of a class assignment at Nucamp.
-- Special thanks to Michael Pacchioli for his guidance and support.
